@@ -1,6 +1,8 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/7524b53a60ed28771403214b4cf5572456af8795/assets/header-dark-compact.png">
-  <img alt="bufan1024 — Build, ship, iterate. Building tools for everyday use." src="https://raw.githubusercontent.com/bufan1024/bufan1024/7524b53a60ed28771403214b4cf5572456af8795/assets/header-dark.png" width="100%">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/4579bbded5075d2145b36063065f1d4acb560847/assets/header-cyber-compact.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/4579bbded5075d2145b36063065f1d4acb560847/assets/header-cyber.png">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/4579bbded5075d2145b36063065f1d4acb560847/assets/header-cyber-compact.gif">
+  <img alt="bufan1024 — Animated cyber terminal with typing, orbiting signals, and a slow scan. Build, ship, iterate." src="https://raw.githubusercontent.com/bufan1024/bufan1024/4579bbded5075d2145b36063065f1d4acb560847/assets/header-cyber.gif" width="100%">
 </picture>
 
 <br>
