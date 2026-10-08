@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="310" viewBox="0 0 1120 310" role="img">
+<title>你好，我是 bufan。喜欢折腾 AI 和代码，把日常的小想法做成顺手的工具。AI TOOLS · JAVASCRIPT · CHROME MV3 · Small tools. Real problems.</title>
+<rect width="1120" height="310" fill="#050608"/>
+<path d="M.5 24.5 24.5 .5H1119.5V285.5L1095.5 309.5H.5Z" fill="none" stroke="#323841"/>
+<path d="M.5 63V24.5L24.5 .5H85" fill="none" stroke="#747e8c"/>
+<path d="M1035 309.5H1095.5L1119.5 285.5V247" fill="none" stroke="#747e8c"/>
+<text x="48" y="43" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="400" letter-spacing="1" fill="#6d7683">// WHOAMI</text>
+<text x="48" y="106" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="600" letter-spacing="0" fill="#f3f6fb">你好，我是 bufan。</text>
+<text x="48" y="163" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="400" letter-spacing="0" fill="#b7bfc9">喜欢折腾 AI 和代码，把日常的小想法做成顺手的工具。</text>
+<path d="M1017 61h21v-9m10 0h20v22m-6 9v18h-21" fill="none" stroke="#414954"/>
+<path d="M1039 63h15m-7-7v15" fill="none" stroke="#6d7683"/>
+<path d="M55 197H166V238H48V204Z" fill="#050608" stroke="#323841"/>
+<text x="63" y="220" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="400" letter-spacing="0" fill="#b7bfc9">AI TOOLS</text>
+<path d="M187 197H320V238H180V204Z" fill="#050608" stroke="#323841"/>
+<text x="195" y="220" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="400" letter-spacing="0" fill="#b7bfc9">JAVASCRIPT</text>
+<path d="M341 197H474V238H334V204Z" fill="#050608" stroke="#323841"/>
+<text x="349" y="220" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="400" letter-spacing="0" fill="#b7bfc9">CHROME MV3</text>
+<path d="M48 251H1072" fill="none" stroke="#242a32"/>
+<path d="M48 251H124" fill="none" stroke="#9bdcff" stroke-width="1.5"/>
+<text x="48" y="286" font-family="Menlo, Consolas, monospace" font-size="26" font-weight="400" letter-spacing="0" fill="#b7bfc9">›_ Small tools. Real problems.</text>
+<text x="1072" text-anchor="end" y="286" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="400" letter-spacing="1" fill="#6d7683">BUFAN / PROFILE</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="376" viewBox="0 0 640 376" role="img">
+<title>你好，我是 bufan。喜欢折腾 AI 和代码，把日常的小想法做成顺手的工具。AI TOOLS · JAVASCRIPT · CHROME MV3 · Small tools. Real problems.</title>
+<rect width="640" height="376" fill="#050608"/>
+<path d="M.5 24.5 24.5 .5H639.5V351.5L615.5 375.5H.5Z" fill="none" stroke="#323841"/>
+<path d="M.5 63V24.5L24.5 .5H85" fill="none" stroke="#747e8c"/>
+<path d="M555 375.5H615.5L639.5 351.5V313" fill="none" stroke="#747e8c"/>
+<text x="36" y="46" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="400" letter-spacing="1" fill="#6d7683">// WHOAMI</text>
+<text x="36" y="109" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="40" font-weight="600" letter-spacing="0" fill="#f3f6fb">你好，我是 bufan。</text>
+<text x="36" y="168" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="400" letter-spacing="0" fill="#b7bfc9">喜欢折腾 AI 和代码，</text>
+<text x="36" y="215" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="400" letter-spacing="0" fill="#b7bfc9">把日常的小想法做成顺手的工具。</text>
+<path d="M43 250H164V293H36V257Z" fill="#050608" stroke="#323841"/>
+<text x="51" y="275" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="400" letter-spacing="0" fill="#b7bfc9">AI TOOLS</text>
+<path d="M185 250H330V293H178V257Z" fill="#050608" stroke="#323841"/>
+<text x="193" y="275" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="400" letter-spacing="0" fill="#b7bfc9">JAVASCRIPT</text>
+<path d="M351 250H496V293H344V257Z" fill="#050608" stroke="#323841"/>
+<text x="359" y="275" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="400" letter-spacing="0" fill="#b7bfc9">CHROME MV3</text>
+<path d="M36 317H604" fill="none" stroke="#242a32"/>
+<path d="M36 317H112" fill="none" stroke="#9bdcff" stroke-width="1.5"/>
+<text x="36" y="351" font-family="Menlo, Consolas, monospace" font-size="26" font-weight="400" letter-spacing="0" fill="#b7bfc9">›_ Small tools. Real problems.</text>
+</svg>
