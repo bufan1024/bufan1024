@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/header-dark-compact.png">
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/header-light-compact.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/header-dark.png">
-  <img alt="bufan1024 — Build, ship, iterate. Building tools for everyday use." src="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/header-light.png" width="100%">
+  <img alt="bufan1024 — Build, ship, iterate. Building tools for everyday use." src="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/header-light.png?v=2" width="100%">
 </picture>
 
 <br>
