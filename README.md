@@ -14,9 +14,9 @@
 <details>
 <summary>◈ 隐藏信号</summary>
 <picture>
-  <source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/9be26e4321a7d291dd5bba9a0c18364df79c64c1/assets/easter-core-compact.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/9be26e4321a7d291dd5bba9a0c18364df79c64c1/assets/easter-core.png">
-  <source media="(max-width: 760px)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/9be26e4321a7d291dd5bba9a0c18364df79c64c1/assets/easter-core-compact.gif">
-  <img alt="隐藏彩蛋：旋转的银白超立方体、轨道流光和粒子汇聚。" src="https://raw.githubusercontent.com/bufan1024/bufan1024/9be26e4321a7d291dd5bba9a0c18364df79c64c1/assets/easter-core.gif" width="100%" align="top">
+  <source media="(max-width: 760px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/daf8bbcf3d46873eedcdce520f67e7a576151f56/assets/easter-story-compact.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/daf8bbcf3d46873eedcdce520f67e7a576151f56/assets/easter-story.png">
+  <source media="(max-width: 760px)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/daf8bbcf3d46873eedcdce520f67e7a576151f56/assets/easter-story-compact.gif">
+  <img alt="隐藏彩蛋：16 秒无对白循环短片。小机器人追逐并接住光点，用它点亮传送门，挥手进入后重新回到故事开头。" src="https://raw.githubusercontent.com/bufan1024/bufan1024/daf8bbcf3d46873eedcdce520f67e7a576151f56/assets/easter-story.gif" width="100%" align="top">
 </picture>
 </details>
