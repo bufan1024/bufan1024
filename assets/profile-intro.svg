@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="300" viewBox="0 0 1120 300" role="img">
+<title>关于 bufan · AI tools · JavaScript · Chrome MV3</title>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1b23"/><stop offset="1" stop-color="#08151b"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#17323a" stroke-width="1"/></pattern>
+</defs>
+<rect width="1120" height="300" fill="#060f15"/>
+<rect x="0.5" y="0.5" width="1119" height="299" rx="12" fill="url(#panel)" stroke="#24464d"/>
+<text x="48" y="46" fill="#69eeb9" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="400" letter-spacing="1">01 / ABOUT</text><text x="48" y="109" fill="#dafff0" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="40" font-weight="600" letter-spacing="0">你好，我是 bufan。</text><text x="48" y="166" fill="#9eb9bb" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="400" letter-spacing="0">喜欢折腾 AI 和代码，把日常的小想法做成顺手的工具。</text><path d="M1006 56h58v58M1038 74v25M1026 86h25" fill="none" stroke="#275153" stroke-width="2"/><rect x="48" y="197" width="118" height="42" rx="5" fill="#10282a" stroke="#275052"/>
+<text x="63" y="220" fill="#69eeb9" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="400" letter-spacing="0">AI TOOLS</text><rect x="178" y="197" width="140" height="42" rx="5" fill="#10282a" stroke="#275052"/>
+<text x="193" y="220" fill="#69eeb9" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="400" letter-spacing="0">JAVASCRIPT</text><rect x="330" y="197" width="140" height="42" rx="5" fill="#10282a" stroke="#275052"/>
+<text x="345" y="220" fill="#69eeb9" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="400" letter-spacing="0">CHROME MV3</text><path d="M48 258H1072" stroke="#234048"/><text x="48" y="286" fill="#53d8ef" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="400" letter-spacing="1">02 / SELECTED PROJECTS</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="374" viewBox="0 0 640 374" role="img">
+<title>copilot-superpowers</title>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1b23"/><stop offset="1" stop-color="#08151b"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#17323a" stroke-width="1"/></pattern>
+</defs>
+<rect width="640" height="374" fill="#060f15"/>
+<rect x="20.5" y="20.5" width="599" height="333" rx="12" fill="url(#panel)" stroke="#24464d"/>
+<rect x="21" y="47" width="3" height="48" rx="1" fill="#53d8ef"/><text x="44" y="63" fill="#53d8ef" font-family="Menlo, Consolas, monospace" font-size="21" font-weight="400" letter-spacing="1">DEVELOPER WORKFLOW</text><text x="44" y="122" fill="#dafff0" font-family="Menlo, Consolas, monospace" font-size="40" font-weight="700" letter-spacing="-1">copilot-superpowers</text><text x="44" y="178" fill="#9eb9bb" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="400" letter-spacing="0">将 Superpowers 开发工作流</text><text x="44" y="224" fill="#9eb9bb" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="400" letter-spacing="0">适配到 VS Code Copilot。</text><rect x="44" y="256" width="115" height="44" rx="5" fill="#10282a" stroke="#275052"/>
+<text x="59" y="281" fill="#53d8ef" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="400" letter-spacing="0">VS CODE</text><rect x="171" y="256" width="115" height="44" rx="5" fill="#10282a" stroke="#275052"/>
+<text x="186" y="281" fill="#53d8ef" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="400" letter-spacing="0">COPILOT</text><rect x="298" y="256" width="164" height="44" rx="5" fill="#10282a" stroke="#275052"/>
+<text x="313" y="281" fill="#53d8ef" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="400" letter-spacing="0">SUPERPOWERS</text><text x="44" y="336" fill="#53d8ef" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="26" font-weight="400" letter-spacing="0">查看项目</text><path d="M168 316h15v15m-15 0 15-15" fill="none" stroke="#53d8ef" stroke-width="2"/>
+</svg>

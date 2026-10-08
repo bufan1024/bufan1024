@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="126" viewBox="0 0 640 126" role="img">
+<title>Small tools. Real problems.</title>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1b23"/><stop offset="1" stop-color="#08151b"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#17323a" stroke-width="1"/></pattern>
+</defs>
+<rect width="640" height="126" fill="#060f15"/>
+<rect x="0.5" y="0.5" width="639" height="125" rx="12" fill="url(#panel)" stroke="#24464d"/>
+<path d="M36 22H604" stroke="#234048"/><text x="36" y="78" fill="#69eeb9" font-family="Menlo, Consolas, monospace" font-size="27" font-weight="400" letter-spacing="0">›_ Small tools. Real problems.</text>
+</svg>
