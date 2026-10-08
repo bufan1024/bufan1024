@@ -9,7 +9,7 @@
 
 <img alt="AI Tools · JavaScript · Chrome MV3" src="https://raw.githubusercontent.com/bufan1024/bufan1024/7524b53a60ed28771403214b4cf5572456af8795/assets/topics-dark.png" width="305">
 
-你好，我是 **bufan**。探索 AI 应用、浏览器扩展和开发工作流。
+你好，我是 **bufan**。喜欢折腾 AI 和代码，把日常的小想法做成顺手的工具。
 
 ## Projects
 
