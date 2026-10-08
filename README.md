@@ -1,15 +1,15 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/header-dark-compact.png">
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/header-light-compact.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/header-dark.png">
-  <img alt="bufan1024 — Build, ship, iterate. Building tools for everyday use." src="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/header-light.png?v=2" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/7524b53a60ed28771403214b4cf5572456af8795/assets/header-dark-compact.png">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/7524b53a60ed28771403214b4cf5572456af8795/assets/header-light-compact.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/7524b53a60ed28771403214b4cf5572456af8795/assets/header-dark.png">
+  <img alt="bufan1024 — Build, ship, iterate. Building tools for everyday use." src="https://raw.githubusercontent.com/bufan1024/bufan1024/7524b53a60ed28771403214b4cf5572456af8795/assets/header-light.png" width="100%">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/topics-dark.png">
-  <img alt="AI Tools · JavaScript · Chrome MV3" src="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/topics-light.png" width="305">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/7524b53a60ed28771403214b4cf5572456af8795/assets/topics-dark.png">
+  <img alt="AI Tools · JavaScript · Chrome MV3" src="https://raw.githubusercontent.com/bufan1024/bufan1024/7524b53a60ed28771403214b4cf5572456af8795/assets/topics-light.png" width="305">
 </picture>
 
 你好，我是 **bufan**。探索 AI 应用、浏览器扩展和开发工作流。
