@@ -7,7 +7,7 @@
 </picture>
 <picture>
   <source media="(max-width: 760px)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/profile-silver-compact.svg">
-  <img alt="AI tools、JavaScript 和 Chrome MV3。Small tools. Real problems." src="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/profile-silver.svg" width="100%" align="top">
+  <img alt="Small tools. Real problems." src="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/profile-silver.svg" width="100%" align="top">
 </picture>
 </div>
 
