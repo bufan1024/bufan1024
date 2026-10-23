@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="184" viewBox="0 0 1120 184" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="145" viewBox="0 0 1120 145" role="img">
 <title>AI TOOLS · JAVASCRIPT · CHROME MV3 · Small tools. Real problems.</title>
-<rect width="1120" height="184" fill="#050608"/>
-<path d="M.5 24.5 24.5 .5H1119.5V159.5L1095.5 183.5H.5Z" fill="none" stroke="#323841"/>
+<rect width="1120" height="145" fill="#050608"/>
+<path d="M.5 24.5 24.5 .5H1119.5V120.5L1095.5 144.5H.5Z" fill="none" stroke="#323841"/>
 <path d="M.5 63V24.5L24.5 .5H85" fill="none" stroke="#747e8c"/>
-<path d="M1035 183.5H1095.5L1119.5 159.5V121" fill="none" stroke="#747e8c"/>
-<text x="48" y="43" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="400" letter-spacing="1" fill="#6d7683">// WHOAMI</text>
-<path d="M1017 61h21v-9m10 0h20v22m-6 9v18h-21" fill="none" stroke="#414954"/>
-<path d="M1039 63h15m-7-7v15" fill="none" stroke="#6d7683"/>
-<g transform="translate(0 -126)">
+<path d="M1035 144.5H1095.5L1119.5 120.5V82" fill="none" stroke="#747e8c"/>
+<path transform="translate(0 -39)" d="M1017 61h21v-9m10 0h20v22m-6 9v18h-21" fill="none" stroke="#414954"/>
+<path transform="translate(0 -39)" d="M1039 63h15m-7-7v15" fill="none" stroke="#6d7683"/>
+<g transform="translate(0 -165)">
 <path d="M55 197H166V238H48V204Z" fill="#050608" stroke="#323841"/>
 <text x="63" y="220" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="400" letter-spacing="0" fill="#b7bfc9">AI TOOLS</text>
 <path d="M187 197H320V238H180V204Z" fill="#050608" stroke="#323841"/>

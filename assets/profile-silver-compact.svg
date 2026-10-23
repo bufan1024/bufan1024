@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="203" viewBox="0 0 640 203" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160" role="img">
 <title>AI TOOLS · JAVASCRIPT · CHROME MV3 · Small tools. Real problems.</title>
-<rect width="640" height="203" fill="#050608"/>
-<path d="M.5 24.5 24.5 .5H639.5V178.5L615.5 202.5H.5Z" fill="none" stroke="#323841"/>
+<rect width="640" height="160" fill="#050608"/>
+<path d="M.5 24.5 24.5 .5H639.5V135.5L615.5 159.5H.5Z" fill="none" stroke="#323841"/>
 <path d="M.5 63V24.5L24.5 .5H85" fill="none" stroke="#747e8c"/>
-<path d="M555 202.5H615.5L639.5 178.5V140" fill="none" stroke="#747e8c"/>
-<text x="36" y="46" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="400" letter-spacing="1" fill="#6d7683">// WHOAMI</text>
-<g transform="translate(0 -173)">
+<path d="M555 159.5H615.5L639.5 135.5V97" fill="none" stroke="#747e8c"/>
+<g transform="translate(0 -216)">
 <path d="M43 250H164V293H36V257Z" fill="#050608" stroke="#323841"/>
 <text x="51" y="275" font-family="Menlo, Consolas, monospace" font-size="20" font-weight="400" letter-spacing="0" fill="#b7bfc9">AI TOOLS</text>
 <path d="M185 250H330V293H178V257Z" fill="#050608" stroke="#323841"/>
