@@ -5,10 +5,6 @@
   <source media="(max-width: 760px)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/f3a91e15d0a97fe9213b13b7c43a346f7c0310cd/assets/header-orbit-compact.gif">
   <img alt="bufan1024 — Animated silver cyberpunk terminal with three rotating orbital rings, comet trails, drifting particles, and a moving highlight. Build, ship, iterate." src="https://raw.githubusercontent.com/bufan1024/bufan1024/f3a91e15d0a97fe9213b13b7c43a346f7c0310cd/assets/header-orbit.gif" width="100%" align="top">
 </picture>
-<picture>
-  <source media="(max-width: 760px)" srcset="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/profile-silver-compact.svg">
-  <img alt="Small tools. Real problems." src="https://raw.githubusercontent.com/bufan1024/bufan1024/main/assets/profile-silver.svg" width="100%" align="top">
-</picture>
 </div>
 
 <details>
